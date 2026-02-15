@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omer</h1>
-<h3 align="center">I am a second-year Data Scince Graduate at Northeastern University. I earned my BS in Industrial Engineering from Istanbul Technical University in 2021.</h3>
+<h3 align="center">I am a Data Science graduate from Northeastern University, and I earned my BS in Industrial Engineering from Istanbul Technical University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerskoc&label=Profile%20views&color=0e75b6&style=flat" alt="omerskoc" /> </p>
 
-- 🌱 I’m currently learning **C++, NLP**
+- 🌱 I’m currently learning **AWS, Python, SQL**
 
 - 📫 How to reach me **koc.o@northeastern.edu**
 
