@@ -20,13 +20,15 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40"/> 
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> 
   </a> 
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" alt="snowflake" width="40" height="40" style="filter: invert(27%) sepia(92%) saturate(749%) hue-rotate(174deg) brightness(94%) contrast(101%);"/> 
+    <img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="snowflake" width="40" height="40"/> 
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
+</p>
+
 </p>
